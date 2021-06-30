@@ -1,6 +1,6 @@
 main:
-  - name: "Services"
-    url: "/services/"
+  - name: "Oferta"
+    url: "/oferta/"
     weight: 2
   - name: "O nas"
     url: "/o-nas/"
