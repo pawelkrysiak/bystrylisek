@@ -2,7 +2,7 @@
 title: "Joanna Czaja"
 draft: false
 image: "images/team/joanna-czaja.jpg"
-jobtitle: "Psychoterapeuta"
+jobtitle: "Pedagog specjalny"
 linkedinurl: ""
 weight: 2
 promoted: true

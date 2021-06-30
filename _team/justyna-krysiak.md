@@ -2,7 +2,7 @@
 title: "Justyna Krysiak"
 draft: false
 image: "images/team/justyna-krysiak.jpg"
-jobtitle: "Psychoterapeuta"
+jobtitle: "Pedagog"
 weight: 1
 promoted: true
 layout: team
