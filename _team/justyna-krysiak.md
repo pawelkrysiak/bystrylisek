@@ -8,6 +8,11 @@ promoted: true
 layout: team
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Wykształcenie pedagogiczne zdobyła w Dolnośląskiej Szkole Wyższej.\
+Pracę dyplomową poświęciła pedagogice wartości w życiu człowieka.\
+Swoją praktykę zawodową ukierunkowała na pracę z pacjentami z różnymi zaburzeniami rozwojowymi, szczególnie dotkniętych autyzmem i zespołem Aspergera.
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Certyfikowana trenerka umiejętności społecznych oraz zastępowania agresji.
+Prowadzi terapię ręki, zajęcia jogi dla dzieci oraz treningi harmonijnego rozwoju emocjonalnego dziecka.
+Zajmuje się wsparciem indywidualnym pacjentów (diagnoza pedagogiczna, zajęcia terapeutyczne oraz wspierające rozwój edukacyjny i społeczny) oraz poradnictwem rodzinnym.
+Wspiera rodziców i opiekunów poprzez sesje grupowe, instruktaże pracy z dzieckiem oraz konsultacje transgresji rozwojowej pacjentów.
