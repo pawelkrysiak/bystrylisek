@@ -1,7 +1,7 @@
 ---
 title: "Zajęcia ogólnorozwojowe"
 featured: true
-weight: 4
+weight: 1
 layout: service
 ---
 
