@@ -5,21 +5,5 @@ weight: 1
 layout: service
 ---
 
-Financial accounting (or financial accountancy) is the field of accounting concerned with the **summary, analysis and reporting** of financial transactions related to a business.
-
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
-
-## Cel zajęć
-
-* wspieranie i stymulowanie rozwoju psychomotorycznego
-* rozwój mowy i komunikacji
-* budowanie relacji z rodzicem i innymi uczestnikami zajęć
-
-## Czas zajęć
-
-60 minut
-
-## Liczba uczestników
-
-do 5 osób w grupie
+adresujemy do dzieci w wieku wczesnoszkolnym (do 3 klasy szkoły podstawowej włącznie). Skupiają się na uzupełnieniu braków w wiadomościach ogólnych, stymulacji procesów myślowych, rozwijaniu umiejętności uczenia się i wspieraniu kształtowania nawyku regularnej i higienicznej pracy umysłowej. Liczba zajęć, ich intensywność i metody pracy są dobierane stosownie do potrzeb i możliwości dzieci. Zajęcia odbywają się indywidualnie. Czas pojedynczych zajęć – 60 minut.
 
