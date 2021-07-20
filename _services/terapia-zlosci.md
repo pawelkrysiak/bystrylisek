@@ -1,6 +1,9 @@
 ---
 title: "Terapia złości"
 layout: service
+role:
+  - pedagog
+  - all
 ---
 
 W trakcie terapii zidentyfikujesz przyczyny złości, dowiesz się jak rozpoznawać jej zwiastuny. W procesie terapii nauczysz się jak w asertywny i konstruktywny sposób wyrażać złość.

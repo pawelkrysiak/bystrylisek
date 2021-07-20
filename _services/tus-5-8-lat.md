@@ -1,6 +1,10 @@
 ---
 title: "TUS dla dzieci od 5 do 8 roku życia"
 layout: service
+role:
+  - pedagog
+  - pedagog-specjalny
+  - all
 ---
 
 Financial accounting (or financial accountancy) is the field of accounting concerned with the **summary, analysis and reporting** of financial transactions related to a business.
