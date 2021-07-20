@@ -6,8 +6,8 @@ homepage:
   show_call_box: true
 
 logo:
-  mobile: "images/logo/bystryLisek.svg"
-  desktop: "images/logo/bystryLisek.svg"
+  mobile: "images/logo/bystryLisek_bw.svg"
+  desktop: "images/logo/bystryLisek_bw.svg"
   desktop_height: "72px"
 
 footer:
