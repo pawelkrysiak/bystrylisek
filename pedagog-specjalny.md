@@ -1,5 +1,6 @@
 ---
 title: Pedagog specjalny
+role: pedagog-specjalny
 layout: services
 intro_image: "images/illustrations/reading.svg"
 intro_image_absolute: true
