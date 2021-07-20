@@ -8,9 +8,12 @@ main:
   - name: "Psycholog"
     url: "/psycholog/"
     weight: 4
+  - name: "Cennik"
+    url: "/cennik/"
+    weight: 5
   - name: "Kontakt"
     url: "/kontakt/"
-    weight: 5
+    weight: 6
 
 footer:
   - name: "Home"
