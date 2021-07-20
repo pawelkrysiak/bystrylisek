@@ -2,6 +2,7 @@
 title: "Terapia dyskalkulii"
 layout: service
 price: 70
+time: 60
 role:
   - pedagog-specjalny
   - all

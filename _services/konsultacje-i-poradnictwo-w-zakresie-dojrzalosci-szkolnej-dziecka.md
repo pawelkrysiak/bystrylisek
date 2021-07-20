@@ -2,6 +2,7 @@
 title: "Konsultacje i poradnictwo w zakresie dojrzałości szkolnej dziecka"
 layout: service
 price: 50
+time: 60
 role:
   - pedagog
   - all

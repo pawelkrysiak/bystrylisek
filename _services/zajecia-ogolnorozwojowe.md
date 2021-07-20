@@ -2,6 +2,7 @@
 title: "Zajęcia ogólnorozwojowe"
 layout: service
 price:
+time:
 role:
   - pedagog
   - pedagog-specjalny

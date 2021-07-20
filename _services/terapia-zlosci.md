@@ -2,6 +2,7 @@
 title: "Terapia złości"
 layout: service
 price: 60
+time: 60
 role:
   - pedagog
   - all
