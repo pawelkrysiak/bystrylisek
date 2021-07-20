@@ -1,7 +1,5 @@
 ---
 title: "Terapia dyskalkulii"
-featured: true
-weight: 1
 layout: service
 ---
 

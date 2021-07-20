@@ -1,7 +1,5 @@
 ---
 title: "Konsultacje i poradnictwo w zakresie dojrzałości szkolnej dziecka"
-featured: true
-weight: 1
 layout: service
 ---
 

@@ -1,7 +1,5 @@
 ---
 title: "TUS dla dzieci od 9 do 12 roku życia"
-featured: true
-weight: 2
 layout: service
 ---
 

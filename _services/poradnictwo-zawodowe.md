@@ -1,7 +1,5 @@
 ---
 title: "Poradnictwo zawodowe"
-featured: true
-weight: 1
 layout: service
 ---
 

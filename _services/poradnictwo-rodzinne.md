@@ -1,7 +1,5 @@
 ---
 title: "Poradnictwo rodzinne"
-featured: true
-weight: 1
 layout: service
 ---
 

@@ -1,7 +1,5 @@
 ---
 title: "Terapia złości"
-featured: true
-weight: 1
 layout: service
 ---
 

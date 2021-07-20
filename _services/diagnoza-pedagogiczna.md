@@ -1,7 +1,5 @@
 ---
 title: "Diagnoza pedagogiczna"
-featured: true
-weight: 1
 layout: service
 ---
 
