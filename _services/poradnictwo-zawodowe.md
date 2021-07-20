@@ -1,6 +1,7 @@
 ---
 title: "Poradnictwo zawodowe"
 layout: service
+price: 60
 role:
   - pedagog
   - all

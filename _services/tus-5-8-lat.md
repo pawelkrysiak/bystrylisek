@@ -1,6 +1,7 @@
 ---
 title: "TUS dla dzieci od 5 do 8 roku życia"
 layout: service
+price: 55
 role:
   - pedagog
   - pedagog-specjalny

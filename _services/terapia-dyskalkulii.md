@@ -1,6 +1,7 @@
 ---
 title: "Terapia dyskalkulii"
 layout: service
+price: 70
 role:
   - pedagog-specjalny
   - all
