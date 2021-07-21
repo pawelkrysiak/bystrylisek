@@ -14,6 +14,10 @@ main:
   - name: "Kontakt"
     url: "/kontakt/"
     weight: 6
+  - name: "Facebook"
+    icon: "images/social/facebook.svg"
+    url: "https://facebook.com/bystrylisek"
+    weight: 7
 
 footer:
   - name: "Home"
@@ -22,3 +26,7 @@ footer:
   - name: "Kontakt"
     url: "/kontakt/"
     weight: 2
+  - name: "Facebook"
+    icon: "images/social/facebook-white.svg"
+    url: "https://facebook.com/bystrylisek"
+    weight: 3
