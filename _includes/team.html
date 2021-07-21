@@ -1,0 +1,17 @@
+<div class="team team-summary {% if include.large %} team-summary-large {% endif %} align-items-center">
+    <div class="team-image">
+      <img alt="{{ include.title }}" class="img-fluid mb-2" src="{{ include.image | relative_url }}" />
+    </div>
+    <div class="team-meta">
+      <h2 class="team-name">{{ include.title }}</h2>
+      <p class="team-description">{{ include.role }}</p>
+    </div>
+    
+    <div class="team-content">
+      {% if include.large %}
+      {{ include.content }}
+      {% else %}
+      {{ include.content | truncate: 250 }}
+      {% endif %}
+    </div>
+</div>
