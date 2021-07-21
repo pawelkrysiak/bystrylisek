@@ -5,7 +5,7 @@ price: 60
 time: 60
 role:
   - pedagog
-  - pedagog-specjalny
+  - "pedagog specjalny"
   - all
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Joanna Czaja"
-role: pedagog-specjalny
+role: "pedagog specjalny"
 image: "images/team/joanna-czaja.jpg"
 layout: services
 ---
