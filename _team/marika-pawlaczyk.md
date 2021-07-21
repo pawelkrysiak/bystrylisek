@@ -1,11 +1,8 @@
 ---
 title: "Marika Pawlaczyk"
-draft: false
+role: psycholog
 image: "images/team/marika-pawlaczyk.jpg"
-jobtitle: "Psycholog"
-linkedinurl: ""
 weight: 3
-promoted: true
 layout: team
 ---
 

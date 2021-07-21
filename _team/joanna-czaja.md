@@ -1,11 +1,8 @@
 ---
 title: "Joanna Czaja"
-draft: false
+role: "pedagog specjalny"
 image: "images/team/joanna-czaja.jpg"
-jobtitle: "Pedagog specjalny"
-linkedinurl: ""
 weight: 2
-promoted: true
 layout: team
 ---
 
