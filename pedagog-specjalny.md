@@ -1,12 +1,12 @@
 ---
-title: Pedagog specjalny
+title: "Joanna Czaja"
 role: pedagog-specjalny
+image: "images/team/joanna-czaja.jpg"
 layout: services
-intro_image: "images/illustrations/reading.svg"
-intro_image_absolute: true
-intro_image_hide_on_mobile: false
 ---
 
-# Pedagog specjalny
+Pedagog specjalny, który od ponad 10 lat wspiera dzieci i osoby dorosłe w spektrum autyzmu w funkcjonowaniu w neurotypowym świecie.
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+Swoje doświadczenie zdobywała w placówkach edukacyjnych, ośrodkach wsparcia dziennego i ośrodku całodobowej opieki w Anglii oraz podczas prywatnej praktyki.
+
+Najbliższe jej sercu jest wspieranie dzieci i ich rodzin w środowisku domowym oraz organizacja czasu wolnego, kiedy to może dać przestrzeń na rozwój samoświadomości i doświadczenie rzeczywistości.
