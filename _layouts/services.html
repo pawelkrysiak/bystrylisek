@@ -4,10 +4,11 @@ bodyClass: page-services-list
 ---
 
 <div class="container pt-6 pb-6">
+  {% unless page.role == "all" %}
   <div class="row">
     <div class="col-12 mb-2">
       {% include team.html
-        large=true 
+        large=true
         title=page.title
         role=page.role
         image=page.image
@@ -15,6 +16,7 @@ bodyClass: page-services-list
       %}
     </div>
   </div>
+  {% endunless %}
   <div class="row">
     {% for service in site.services %}
     {% for role in service.role %}
