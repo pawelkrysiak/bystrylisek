@@ -27,6 +27,9 @@ bodyClass: page-services-list
           </h2>
           <p>{{ service.content | markdownify | strip_html | truncatewords: 20 }}</p>
         </div>
+        <div class="service-meta">
+          <div class="service-price"><img src="{{ 'images/services/money.png' | relative_url }}"> {{ service.price }} zł</div>
+        </div>
       </div>
     </div>
     {% endif %}
