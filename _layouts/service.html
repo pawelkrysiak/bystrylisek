@@ -1,12 +1,18 @@
 ---
 layout: default
+bodyClass: page-services-single
 ---
 
 <div class="container pb-6 pt-6 pt-md-10 pb-md-10">
   <div class="row justify-content-start">
     <div class="col-12 col-md-8">
       <div class="service service-single">
-        <h1 class="title">{{page.title}}</h1>
+        <h1 class="title">{{ page.title }}</h1>
+        <div class="service-meta pb-3">
+          <div class="service-time"><img src="{{ 'images/services/time.png' | relative_url }}"> Czas trwania zajęć: {{ page.time }} minut</div>
+          <div class="service-price"><img src="{{ 'images/services/money.png' | relative_url }}"> Koszt: {{ page.price }} zł</div>
+          <div class="service-group"><img src="{{ 'images/services/person.png' | relative_url }}"> Forma zajęć: {% if page.group %} grupowe do {{ page.group }} uczestników {% else %} indywidualne {% endif %}</div>  
+        </div>
         <div class="content">{{content}}</div>
       </div>
     </div>
