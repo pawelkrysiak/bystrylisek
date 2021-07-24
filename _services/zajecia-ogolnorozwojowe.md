@@ -3,13 +3,14 @@ title: "Zajęcia ogólnorozwojowe"
 layout: service
 price: 60
 time: 60
+group: 5
 role:
   - pedagog
   - "pedagog specjalny"
   - all
 ---
 
-- Dzieci od 2 do 4 roku życia (max 5 dzieci w grupie)
+- Dzieci od 2 do 4 roku życia
 - Dzieciom podczas zajęć towarzyszą rodzice
 
 ## Cel zajęć:

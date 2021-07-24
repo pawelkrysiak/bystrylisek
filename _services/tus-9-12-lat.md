@@ -3,6 +3,7 @@ title: "TUS dla dzieci od 9 do 12 roku życia"
 layout: service
 price: 55
 time: 60
+group: 5
 role:
   - pedagog
   - "pedagog specjalny"

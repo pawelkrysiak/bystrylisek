@@ -3,6 +3,7 @@ title: "Joga"
 layout: service
 price: 50
 time: 45
+group: 4
 role:
   - pedagog
   - all
