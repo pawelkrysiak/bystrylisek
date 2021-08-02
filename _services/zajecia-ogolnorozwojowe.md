@@ -12,6 +12,7 @@ role:
 
 - Dzieci od 2 do 4 roku życia
 - Dzieciom podczas zajęć towarzyszą rodzice
+- Istnieje możliwość stworzenia grupy dla dzieci komunikujących się metodami alternatywnymi
 
 ## Cel zajęć:
 
