@@ -1,0 +1,32 @@
+main:
+  - name: "Pedagog"
+    url: "/pedagog/"
+    weight: 2
+  - name: "Pedagog specjalny"
+    url: "/pedagog-specjalny/"
+    weight: 3
+  - name: "Psycholog"
+    url: "/psycholog/"
+    weight: 4
+  - name: "Cennik"
+    url: "/cennik/"
+    weight: 5
+  - name: "Kontakt"
+    url: "/kontakt/"
+    weight: 6
+  - name: "Facebook"
+    icon: "images/social/facebook.svg"
+    url: "https://facebook.com/bystrylisek"
+    weight: 7
+
+footer:
+  - name: "Home"
+    url: "/"
+    weight: 1
+  - name: "Kontakt"
+    url: "/kontakt/"
+    weight: 2
+  - name: "Facebook"
+    icon: "images/social/facebook-white.svg"
+    url: "https://facebook.com/bystrylisek"
+    weight: 3

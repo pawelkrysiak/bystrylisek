@@ -1,0 +1,43 @@
+---
+layout: default
+bodyClass: page-services-list
+---
+
+<div class="container pt-6 pb-6">
+  {% unless page.role == "all" %}
+  <div class="row">
+    <div class="col-12 mb-2">
+      {% include team.html
+        large=true
+        title=page.title
+        role=page.role
+        image=page.image
+        content=content
+      %}
+    </div>
+  </div>
+  {% endunless %}
+  <div class="row">
+    {% for service in site.services %}
+    {% for role in service.role %}
+    {% if role == page.role %}
+    <div class="col-12 col-md-8 mb-3">
+      <div class="service service-summary">
+        <div class="service-content">
+          <h2 class="service-title">
+            <a href="{{ service.url | relative_url }}">{{ service.title }}</a>
+          </h2>
+          <div class="service-meta row justify-content-start">
+            <div class="service-time col-sm-auto"><img src="{{ 'images/services/time.png' | relative_url }}"> {{ service.time }} minut</div>
+            <div class="service-price col-sm-auto"><img src="{{ 'images/services/money.png' | relative_url }}"> {{ service.price }} zł</div>
+            <div class="service-group col-sm-auto"><img src="{{ 'images/services/person.png' | relative_url }}"> {% if service.group %} do {{ service.group }} uczestników {% else %} indywidualne {% endif %}</div>  
+          </div>
+          <p>{{ service.content | markdownify | strip_html | truncatewords: 20 }}</p>
+        </div>
+      </div>
+    </div>
+    {% endif %}
+    {% endfor %}
+    {% endfor %}
+  </div>
+</div>

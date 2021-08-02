@@ -1,0 +1,29 @@
+.page-services-single {
+  .content {
+    > p {
+      &:first-of-type {
+        font-size: 1.6rem;
+        line-height: 1.4;
+        margin-bottom: 40px;
+        font-weight: regular;
+        color: rgb(104, 104, 104);
+      }
+    }
+  }
+}
+
+.service-meta {
+  padding-bottom: 1em;
+  .service-time {
+    padding-right: 1em;
+    padding-bottom: 0.5em;
+  }
+  .service-price {
+    padding-right: 1em;
+    padding-bottom: 0.5em;
+  }
+  .service-group {
+    padding-right: 1em;
+    padding-bottom: 0.5em;
+  }
+}
