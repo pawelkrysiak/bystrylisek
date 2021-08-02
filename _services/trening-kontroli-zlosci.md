@@ -1,5 +1,5 @@
 ---
-title: "Terapia złości"
+title: "Trening kontroli złości"
 layout: service
 price: 60
 time: 60
