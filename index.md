@@ -9,4 +9,4 @@ intro_image_hide_on_mobile: true
 
 # Bystry Lisek
 
-Witamy w Gabinecie Terapii Pedagogicznej i Psychologicznej Bystry Lisek
+Witamy w Gabinecie Psychologiczno-Pedagogicznym "Bystry Lisek"
