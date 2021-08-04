@@ -1,6 +1,8 @@
 ---
 title: "Joanna Czaja"
 role: "pedagog specjalny"
+mail: pedagogspecjalny@bystrylisek.pl
+phone: 
 image: "images/team/joanna-czaja.jpg"
 layout: services
 ---

@@ -1,6 +1,8 @@
 ---
 title: "Marika Pawlaczyk"
 role: psycholog
+mail: psycholog@bystrylisek.pl
+phone: 
 image: "images/team/marika-pawlaczyk.jpg"
 layout: services
 ---
