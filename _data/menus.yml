@@ -8,16 +8,19 @@ main:
   - name: "Psycholog"
     url: "/psycholog/"
     weight: 4
+  - name: "Grafik"
+    url: "/grafik/"
+    weight: 5
   - name: "Cennik"
     url: "/cennik/"
-    weight: 5
+    weight: 6
   - name: "Kontakt"
     url: "/kontakt/"
-    weight: 6
+    weight: 7
   - name: "Facebook"
     icon: "images/social/facebook.svg"
     url: "https://facebook.com/bystrylisek"
-    weight: 7
+    weight: 8
 
 footer:
   - name: "Home"
