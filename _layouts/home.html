@@ -22,12 +22,12 @@ bodyClass: page-home
   </div>
 </div>
 
-<div class="container pt-6 pb-6 pb-md-10">
+<div class="container pt-3 pb-3">
   <h1>Nasz zespół</h1>
   <div class="row justify-content-start pb-3">
     {% assign weighted_team = site.team | sort: "weight" %}
     {% for team in weighted_team %}
-    {% include team.html 
+    {% include team.html
       large=false
       title=team.title
       role=team.role
@@ -38,8 +38,9 @@ bodyClass: page-home
   </div>
 </div>
 
-<div class="container pt-6 pb-6 pb-md-10">
-  <div class="row no-gutters">
+<div class="container pt-3 pb-3">
+  <h1>Nasz gabinet</h1>
+  <div class="row no-gutters pt-3">
     <div class="col-sm-6 position-relative">
       <img alt={{ page.title }} class="intro-image" src="{{ 'images/illustrations/bystry_lisek_5.jpg' | relative_url }}" />
     </div>
