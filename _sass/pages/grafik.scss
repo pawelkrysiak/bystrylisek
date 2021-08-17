@@ -1,0 +1,143 @@
+/*************************
+ * GRID SCHEDULE LAYOUT
+ *************************/
+.schedule {
+    margin-bottom: 6em;
+}
+
+ @media screen and (min-width:700px) {
+	.schedule {
+        margin-top: 3em;
+        margin-bottom: 3em;
+
+		display: grid;
+
+		grid-gap: .75em;
+		grid-template-rows:
+			[tracks] auto
+			[time-0700] 1fr
+			//[time-0730] 1fr
+			//[time-0800] 1fr
+			//[time-0830] 1fr
+			//[time-0900] 1fr
+			//[time-0930] 1fr
+			//[time-1000] 1fr
+			[time-1030] 1fr
+			[time-1100] 1fr
+			[time-1130] 1fr
+			[time-1200] 1fr
+			//[time-1230] 1fr
+			//[time-1300] 1fr
+			//[time-1330] 1fr
+			[time-1400] 1fr
+			[time-1430] 1fr
+			[time-1500] 1fr
+			[time-1530] 1fr
+			[time-1600] 1fr
+			[time-1630] 1fr
+			[time-1700] 1fr
+			[time-1730] 1fr
+			[time-1800] 1fr
+			[time-1830] 1fr
+			[time-1900] 1fr
+			[time-1930] 1fr
+			[time-2000] 1fr
+			[time-2030] 1fr;
+
+		grid-template-columns:
+			[times] 3em
+			[track-1-start] 1fr
+			[track-1-end track-2-start] 1fr
+			[track-2-end track-3-start] 1fr
+			[track-3-end track-4-start] 1fr
+			[track-4-end track-5-start] 1fr
+			[track-5-end track-6-start] 1fr
+			[track-6-end];
+	}
+}
+
+.time-slot {
+    display: none; // on small screens and w/o grid support
+}
+
+@supports( display:grid ) {
+	@media screen and (min-width: 700px) {
+		.time-slot {
+            display: block;
+            grid-column: times;
+		}
+	}
+}
+
+.track-slot {
+    display: block;
+    padding: 10px 5px 5px;
+    border-radius: 5px;
+    top: 0;
+    z-index: 1000;
+    background-color: rgba(0,0,0,.1);
+}
+
+@supports( display:grid ) {
+	@media screen and (min-width: 700px) {
+		.track-slot {
+            position: sticky;
+		}
+	}
+}
+
+
+/* Small-screen & fallback styles */
+.session {
+	margin-bottom:  1em;
+}
+
+@media screen and (min-width: 700px) {
+    .session {
+        margin: 0;
+        box-shadow:
+		// rgba(255,255,255,.5) 1px 1px 0,
+		rgba(0,0,0,.3) 3px 3px 0;
+    }
+}
+
+/*************************
+ * VISUAL STYLES
+ *************************/
+body {
+	padding: 50px;
+	max-width: 1100px;
+	margin: 0 auto;
+}
+
+.session {
+    background-color: $primary;
+	color: #fff;
+	padding: .5em;
+	border-radius: 5px;
+	font-size: 14px;
+}
+
+.session-title,
+.session-time,
+.session-track,
+.session-presenter {
+    display: block;
+    margin-bottom: .5em;
+}
+
+.session-title,
+.time-slot {
+	font-size: 1em;
+}
+
+.session-time {
+    font-style: italic;
+}
+
+.track-slot,
+.time-slot {
+	font-weight: bold;
+    font-size: .75em;
+    text-align: center;
+}
