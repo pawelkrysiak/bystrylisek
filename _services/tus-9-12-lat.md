@@ -1,7 +1,7 @@
 ---
 title: "TUS dla dzieci od 9 do 12 roku życia"
 layout: service
-price: 55
+price: 60
 time: 60
 group: 5
 role:
@@ -15,7 +15,7 @@ Trening umiejętności społecznych to forma wsparcia dzieci, młodzieży i doro
 ## Cel zajęć
 
 - rozwój samoświadomości
-- (rozpoznawanie własnych potrzeb, mocnych i słabych stron, rozpoznawanie własnych uczuć i emocji)
+- rozpoznawanie własnych potrzeb, mocnych i słabych stron, rozpoznawanie własnych uczuć i emocji
 - rozpoznawanie emocji i uczuć innych osób
 - budowanie relacji z uczestnikami grupy
 - budowanie poczucia własnej wartości

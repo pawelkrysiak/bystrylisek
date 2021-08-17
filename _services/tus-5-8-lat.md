@@ -1,7 +1,7 @@
 ---
 title: "TUS dla dzieci od 5 do 8 roku życia"
 layout: service
-price: 55
+price: 60
 time: 60
 group: 5
 role:

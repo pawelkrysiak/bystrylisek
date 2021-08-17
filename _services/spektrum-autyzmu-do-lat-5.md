@@ -1,7 +1,7 @@
 ---
 title: "Zajęcia indywidualne dla dzieci w spektrum autyzmu do lat 5"
 layout: service
-price: 70
+price: 80
 time: 60
 role:
   - "pedagog specjalny"
