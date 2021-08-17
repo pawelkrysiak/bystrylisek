@@ -1,14 +1,16 @@
 /*************************
  * GRID SCHEDULE LAYOUT
  *************************/
+$padding: 3em;
+
 .schedule {
-    margin-bottom: 6em;
+    margin-bottom: $padding;
 }
 
  @media screen and (min-width:700px) {
 	.schedule {
-        margin-top: 3em;
-        margin-bottom: 3em;
+        margin-top: $padding;
+        margin-bottom: 0em;
 
 		display: grid;
 
@@ -89,7 +91,7 @@
 
 /* Small-screen & fallback styles */
 .session {
-	margin-bottom:  1em;
+	margin-bottom: 1em;
 }
 
 @media screen and (min-width: 700px) {
@@ -137,7 +139,17 @@ body {
 
 .track-slot,
 .time-slot {
-	font-weight: bold;
+    font-weight: bold;
+}
+
+.track-slot,
+.time-slot,
+.change-disclaimer {
     font-size: .75em;
     text-align: center;
+}
+
+.change-disclaimer {
+    padding-bottom: $padding;
+    color: lighten(#000, 50%);
 }
