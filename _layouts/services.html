@@ -28,7 +28,9 @@ bodyClass: page-services-list
             <a href="{{ service.url | relative_url }}">{{ service.title }}</a>
           </h2>
           <div class="service-meta row justify-content-start">
+            {% if service.time %}
             <div class="service-time col-sm-auto"><img src="{{ 'images/services/time.png' | relative_url }}"> {{ service.time }} minut</div>
+            {% endif %}
             <div class="service-price col-sm-auto"><img src="{{ 'images/services/money.png' | relative_url }}"> {{ service.price }} zł</div>
             <div class="service-group col-sm-auto"><img src="{{ 'images/services/person.png' | relative_url }}"> {% if service.group %} do {{ service.group }} uczestników {% else %} indywidualne {% endif %}</div>  
           </div>

@@ -9,7 +9,9 @@ bodyClass: page-services-single
       <div class="service service-single">
         <h1 class="title">{{ page.title }}</h1>
         <div class="service-meta">
+          {% if page.time %}
           <div class="service-time"><img src="{{ 'images/services/time.png' | relative_url }}"> Czas trwania zajęć: {{ page.time }} minut</div>
+          {% endif %}
           <div class="service-price"><img src="{{ 'images/services/money.png' | relative_url }}"> Koszt zajęć: {{ page.price }} zł</div>
           <div class="service-group"><img src="{{ 'images/services/person.png' | relative_url }}"> Forma zajęć: {% if page.group %} grupowe do {{ page.group }} uczestników {% else %} indywidualne {% endif %}</div>  
         </div>
