@@ -25,7 +25,7 @@ bodyClass: page-contact
                 </div>
                 {% endif %}
                 <div class="team-meta">
-                    <h2 class="team-name"><a href="{{ team.url | relative_url }}">{{ team.title }}</a></h2>
+                    <h2 class="team-name"><a href="{{ team.role | replace: ' ', '-' | relative_url }}">{{ team.title }}</a></h2>
                     <p class="team-description">{{ team.role }}</p>
                     <div class="call-phone">
                         <img src="{{ 'images/contact/phone.png' | relative_url }}" width="20em"><a href="tel:{{ team.phone }}"> {{ team.phone }}</a>
