@@ -11,8 +11,34 @@ bodyClass: page-contact
                 <h1 class="title">{{page.title}}</h1>
                 {% include call.html show_button=false %}
                 <div class="content mt-4">{{content}}</div>
-                {% include map.html %}
             </div>
         </div>
+    </div>
+    <div class="row">
+        {% assign teams = site.team | sort: "weight" %}
+        {% for team in teams %}
+        <div class="col-12 col-md-4 pb-2 pb-md-6">
+            <div class="team team-summary">
+                {% if team.image %}
+                <div class="team-image">
+                    <img alt="{{ team.title }}" class="img-fluid mb-2" src="{{ team.image | relative_url }}" />
+                </div>
+                {% endif %}
+                <div class="team-meta">
+                    <h2 class="team-name"><a href="{{ team.url | relative_url }}">{{ team.title }}</a></h2>
+                    <p class="team-description">{{ team.role }}</p>
+                    <div class="call-phone">
+                        <img src="{{ 'images/contact/phone.png' | relative_url }}" width="20em"><a href="tel:{{ team.phone }}"> {{ team.phone }}</a>
+                    </div>
+                    <div class="call-email">
+                        <img src="{{ 'images/contact/mail.png' | relative_url }}" width="20em"><a href="mailto:{{ team.mail }}"> {{ team.mail }}</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+    <div class="row">
+        <div class="col-12">{% include map.html %}</div>
     </div>
 </div>
