@@ -7,11 +7,4 @@ phone: "728 093 801"
 layout: services
 ---
 
-Wykształcenie pedagogiczne zdobyła w Dolnośląskiej Szkole Wyższej.
-Pracę dyplomową poświęciła pedagogice wartości w życiu człowieka.
-Swoją praktykę zawodową ukierunkowała na pracę z pacjentami z różnymi zaburzeniami rozwojowymi, szczególnie autyzmem i zespołem Aspergera.
-
-Certyfikowana trenerka umiejętności społecznych oraz zastępowania agresji.
-Prowadzi terapię ręki, zajęcia jogi dla dzieci oraz treningi harmonijnego rozwoju emocjonalnego dziecka.
-Zajmuje się wsparciem indywidualnym pacjentów (diagnoza pedagogiczna, zajęcia terapeutyczne oraz wspierające rozwój edukacyjny i społeczny) oraz poradnictwem rodzinnym.
-Wspiera rodziców i opiekunów poprzez sesje grupowe, instruktaże pracy z dzieckiem oraz konsultacje transgresji rozwojowej pacjentów.
+{{ site.data.descriptions.pedagog }}
