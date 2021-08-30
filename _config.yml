@@ -4,7 +4,7 @@ title: 'Bystry Lisek'
 
 homepage:
   show_call_box: true
-  show_modal: true
+  show_modal: false
 
 logo:
   mobile: "images/logo/bystryLisek_bw.svg"
