@@ -1,4 +1,0 @@
----
-title: Grafik
-layout: grafik
----
