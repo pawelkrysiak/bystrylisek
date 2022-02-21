@@ -58,5 +58,7 @@ bodyClass: page-home
 </div>
 
 {% if site.homepage.show_modal %}
-{% include modal.html %}
+{% include modal.html
+  until=site.homepage.show_modal_until
+%}
 {% endif %}

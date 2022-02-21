@@ -23,5 +23,9 @@
         modal.style.display = "inline-block";
     }
 
-    window.onload = showModal;
+    var current_date = new Date();
+    var until_date = new Date({{include.until}});
+    if (current_date < until_date) {
+      window.onload = showModal;
+    }
 </script>
