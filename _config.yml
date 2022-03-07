@@ -5,7 +5,7 @@ title: 'Bystry Lisek'
 homepage:
   show_call_box: true
   show_modal: true
-  show_modal_until: '2022-02-23'
+  show_modal_until: '2022-03-22'
 
 logo:
   mobile: "images/logo/bystryLisek_bw.svg"
