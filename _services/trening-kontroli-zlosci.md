@@ -1,7 +1,7 @@
 ---
 title: "Trening kontroli złości"
 layout: service
-price: 60
+price: 70
 time: 60
 role:
   - pedagog

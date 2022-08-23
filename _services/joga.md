@@ -1,7 +1,7 @@
 ---
 title: "Joga"
 layout: service
-price: 50
+price: 60
 time: 45
 group: 4
 role:

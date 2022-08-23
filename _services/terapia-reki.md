@@ -1,7 +1,7 @@
 ---
 title: "Terapia ręki"
 layout: service
-price: 50
+price: 60
 time: 45
 role:
   - pedagog

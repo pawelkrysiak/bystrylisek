@@ -1,7 +1,7 @@
 ---
 title: "Zajęcia wyrównawcze"
 layout: service
-price: 60
+price: 70
 time: 60
 role:
   - pedagog
