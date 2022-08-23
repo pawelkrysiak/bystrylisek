@@ -1,7 +1,7 @@
 ---
 title: "Indywidualne zajęcia arteterapeutyczne dla dorosłych"
 layout: service
-price: 50
+price: 70
 time: 60
 role:
   - psycholog

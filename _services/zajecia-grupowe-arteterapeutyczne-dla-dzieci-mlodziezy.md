@@ -1,7 +1,7 @@
 ---
 title: "Grupowe zajęcia arteterapeutyczne dla dzieci / młodzieży"
 layout: service
-price: 45
+price: 65
 time: 60
 role:
   - psycholog

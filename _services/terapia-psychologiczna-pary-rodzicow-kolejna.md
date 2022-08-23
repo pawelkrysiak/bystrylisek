@@ -1,7 +1,7 @@
 ---
 title: "Kolejna terapia psychologiczna pary rodziców"
 layout: service
-price: 130
+price: 150
 time: 90
 role:
   - psycholog

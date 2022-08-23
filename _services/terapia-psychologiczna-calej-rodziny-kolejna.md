@@ -1,7 +1,7 @@
 ---
 title: "Kolejna terapia psychologiczna całej rodziny"
 layout: service
-price: 160
+price: 180
 time: 90
 role:
   - psycholog

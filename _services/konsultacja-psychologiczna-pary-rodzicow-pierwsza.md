@@ -1,7 +1,7 @@
 ---
 title: "Pierwsza konsultacja psychologiczna pary rodziców"
 layout: service
-price: 150
+price: 170
 time: 90
 role:
   - psycholog

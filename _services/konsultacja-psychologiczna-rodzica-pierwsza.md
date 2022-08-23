@@ -1,7 +1,7 @@
 ---
 title: "Pierwsza konsultacja psychologiczna rodzica"
 layout: service
-price: 120
+price: 140
 time: 50
 role:
   - psycholog

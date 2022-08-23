@@ -1,7 +1,7 @@
 ---
 title: "Pisemna opinia psychologiczna"
 layout: service
-price: 100
+price: 120
 role:
   - psycholog
   - all

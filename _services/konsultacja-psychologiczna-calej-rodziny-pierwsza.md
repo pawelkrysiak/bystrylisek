@@ -1,7 +1,7 @@
 ---
 title: "Pierwsza konsultacja psychologiczna całej rodziny"
 layout: service
-price: 180
+price: 200
 time: 90
 role:
   - psycholog

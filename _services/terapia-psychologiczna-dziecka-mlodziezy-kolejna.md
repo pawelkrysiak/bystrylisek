@@ -1,7 +1,7 @@
 ---
 title: "Kolejna terapia psychologiczna dziecka / młodzieży"
 layout: service
-price: 100
+price: 120
 time: 50
 role:
   - psycholog
