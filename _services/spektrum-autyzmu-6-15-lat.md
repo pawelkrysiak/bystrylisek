@@ -1,7 +1,7 @@
 ---
 title: "Zajęcia indywidualne dla osób w spektrum autyzmu od 6 do 15 roku życia"
 layout: service
-price: 80
+price: 100
 time: 60
 role:
   - "pedagog specjalny"

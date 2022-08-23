@@ -1,7 +1,7 @@
 ---
 title: "Terapia pedagogiczna"
 layout: service
-price: 70
+price: 90
 time: 60
 role:
   - "pedagog specjalny"

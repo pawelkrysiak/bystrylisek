@@ -1,7 +1,7 @@
 ---
 title: "Zajęcia indywidualne rozwijające komunikację alternatywną i wspierającą"
 layout: service
-price: 80
+price: 100
 time: 60
 role:
   - "pedagog specjalny"

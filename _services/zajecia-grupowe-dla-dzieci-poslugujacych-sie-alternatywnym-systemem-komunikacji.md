@@ -1,7 +1,7 @@
 ---
 title: "Zajęcia grupowe dla dzieci posługujących się alternatywnym systemem komunikacji"
 layout: service
-price: 50
+price: 70
 time: 60
 group: 4
 role:
