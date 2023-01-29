@@ -11,16 +11,19 @@ main:
   - name: "Trener edukacyjny"
     url: "/trener-edukacyjny/"
     weight: 5
+  - name: "Muzykoterapeuta"
+    url: "/muzykoterapeuta/"
+    weight: 6
   - name: "Cennik"
     url: "/cennik/"
-    weight: 6
+    weight: 7
   - name: "Kontakt"
     url: "/kontakt/"
-    weight: 7
+    weight: 8
   - name: "Facebook"
     icon: "images/social/facebook.svg"
     url: "https://facebook.com/bystrylisek"
-    weight: 8
+    weight: 9
 
 footer:
   - name: "Home"
