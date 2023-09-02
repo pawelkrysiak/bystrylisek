@@ -6,7 +6,6 @@ time: 60
 group: 5
 role:
   - pedagog
-  - "pedagog specjalny"
   - all
 ---
 

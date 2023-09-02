@@ -2,9 +2,6 @@ main:
   - name: "Pedagog"
     url: "/pedagog/"
     weight: 2
-  - name: "Pedagog specjalny"
-    url: "/pedagog-specjalny/"
-    weight: 3
   - name: "Psycholog"
     url: "/psycholog/"
     weight: 4
