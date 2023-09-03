@@ -1,7 +1,7 @@
 ---
 title: "Zajęcia ogólnorozwojowe"
 layout: service
-price: 80
+price: 90
 time: 60
 group: 5
 role:

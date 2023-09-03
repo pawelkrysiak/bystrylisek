@@ -1,7 +1,7 @@
 ---
 title: "Poradnictwo rodzinne"
 layout: service
-price: 80
+price: 90
 time: 60
 role:
   - pedagog

@@ -1,7 +1,7 @@
 ---
 title: "Diagnoza pedagogiczna"
 layout: service
-price: 160
+price: 170
 time: 2 x 45
 role:
   - pedagog
