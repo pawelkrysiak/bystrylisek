@@ -21,8 +21,7 @@ bodyClass: page-services-list
   {% endunless %}
   <div class="row">
     {% for service in site.services %}
-    {% for role in service.role %}
-    {% if role == page.role %}
+    {% if service.role == page.title or page.role == "all" %}
     <div class="col-12 col-md-8 mb-3">
       <div class="service service-summary">
         <div class="service-content">
@@ -47,7 +46,6 @@ bodyClass: page-services-list
       </div>
     </div>
     {% endif %}
-    {% endfor %}
     {% endfor %}
   </div>
 </div>

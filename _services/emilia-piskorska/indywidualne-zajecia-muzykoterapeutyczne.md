@@ -3,9 +3,7 @@ title: "Indywidualne zajęcia muzykoterapeutyczne"
 layout: service
 price: 120
 time: 50
-role:
-  - muzykoterapeuta
-  - all
+role: "Emilia Piskorska"
 ---
 
 Celem zajęć jest:

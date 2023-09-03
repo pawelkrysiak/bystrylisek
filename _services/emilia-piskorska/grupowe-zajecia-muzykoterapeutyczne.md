@@ -4,9 +4,7 @@ layout: service
 price: 70
 time: 50
 group: 6
-role:
-  - muzykoterapeuta
-  - all
+role: "Emilia Piskorska"
 ---
 
 grupa młodsza (2-4 lata) oraz grupa starsza (5-7 lat)

@@ -3,9 +3,7 @@ title: "Trening kontroli złości"
 layout: service
 price: 80
 time: 60
-role:
-  - pedagog
-  - all
+role: "Justyna Krysiak"
 ---
 
 W trakcie terapii zidentyfikujesz przyczyny złości, dowiesz się jak rozpoznawać jej zwiastuny. W procesie terapii nauczysz się jak w asertywny i konstruktywny sposób wyrażać złość.

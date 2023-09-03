@@ -4,9 +4,7 @@ layout: service
 price: 70
 time: 50
 group: 6
-role:
-  - muzykoterapeuta
-  - all
+role: "Emilia Piskorska"
 ---
 
 Celem zajęć jest:

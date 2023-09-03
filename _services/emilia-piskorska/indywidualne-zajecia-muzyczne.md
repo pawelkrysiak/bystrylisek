@@ -3,9 +3,7 @@ title: "Indywidualne zajęcia muzyczne - nauka gry na pianinie"
 layout: service
 price: 100
 time: 50
-role:
-  - muzykoterapeuta
-  - all
+role: "Emilia Piskorska"
 ---
 
 Celem zajęć jest:

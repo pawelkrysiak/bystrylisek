@@ -4,9 +4,7 @@ layout: service
 price: 90
 time: 60
 group: 5
-role:
-  - pedagog
-  - all
+role: "Justyna Krysiak"
 ---
 
 - Dzieci od 2 do 4 roku życia
