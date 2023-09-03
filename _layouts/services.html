@@ -6,17 +6,15 @@ bodyClass: page-services-list
 <div class="container pt-6 pb-6">
   {% unless page.role == "all" %}
   <div class="row">
-    <div class="col-12 mb-2">
-      {% include team.html
-        large=true
-        title=page.title
-        role=page.role
-        image=page.image
-        phone=page.phone
-        mail=page.mail
-        content=content
-      %}
-    </div>
+    {% include team.html
+      large=true
+      title=page.title
+      role=page.role
+      image=page.image
+      phone=page.phone
+      mail=page.mail
+      content=content
+    %}
   </div>
   {% endunless %}
   <div class="row">
