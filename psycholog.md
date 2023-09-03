@@ -1,7 +1,7 @@
 ---
 title: "Marika Pawlaczyk"
 role: psycholog
-mail: psycholog@bystrylisek.pl
+mail: marika.pawlaczyk@bystrylisek.pl
 phone: "884 027 600"
 image: "images/team/marika-pawlaczyk.jpg"
 layout: services

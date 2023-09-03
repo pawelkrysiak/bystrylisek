@@ -1,6 +1,6 @@
 ---
 title: "Oliwia Jankowska"
-role: psycholog2
+role: psycholog
 image: "images/team/oliwia-jankowska.jpg"
 mail: oliwia.jankowska@bystrylisek.pl
 phone: "535 910 066"

@@ -1,7 +1,7 @@
 ---
 title: "Tomasz Piasecki"
 role: "trener edukacyjny"
-mail: trener.edukacyjny@bystrylisek.pl
+mail: tomasz.piasecki@bystrylisek.pl
 phone: "665 538 150"
 image: "images/team/tomasz-piasecki.jpg"
 layout: services
