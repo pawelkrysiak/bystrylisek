@@ -3,7 +3,7 @@
       <img alt="{{ include.title }}" class="img-fluid mb-2" src="{{ include.image | relative_url }}" />
     </div>
     <div class="team-meta">
-      <h2 class="team-name"><a href="../team{{ include.title | slugify | relative_url }}">{{ include.title }}</a></h2>
+      <h2 class="team-name"><a href="{% if not include.large %}../team{{ include.title | slugify | relative_url }}{% endif %}">{{ include.title }}</a></h2>
       <p class="team-description">{{ include.role }}</p>
       {% if include.phone %}
       <div class="call-phone">
