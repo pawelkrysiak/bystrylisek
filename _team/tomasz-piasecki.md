@@ -8,4 +8,6 @@ weight: 4
 layout: services
 ---
 
-{{ site.data.descriptions.tomasz }}
+socjoterapeuta w trakcie szkolenia, polonista, bibliotekoznawca
+
+Absolwent Uniwersytetu Wrocławskiego, lingwista kulturowy, doświadczony nauczyciel akademicki i szkolny. Miłośnik narracyjnej terapii więzi, biblio- i bajkoterapii.
