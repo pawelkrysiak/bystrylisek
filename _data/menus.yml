@@ -1,26 +1,14 @@
 main:
-  - name: "Pedagog"
-    url: "/pedagog/"
-    weight: 2
-  - name: "Psycholog"
-    url: "/psycholog/"
-    weight: 4
-  - name: "Trener edukacyjny"
-    url: "/trener-edukacyjny/"
-    weight: 5
-  - name: "Muzykoterapeuta"
-    url: "/muzykoterapeuta/"
-    weight: 6
   - name: "Cennik"
     url: "/cennik/"
-    weight: 7
+    weight: 1
   - name: "Kontakt"
     url: "/kontakt/"
-    weight: 8
+    weight: 2
   - name: "Facebook"
     icon: "images/social/facebook.svg"
     url: "https://facebook.com/bystrylisek"
-    weight: 9
+    weight: 3
 
 footer:
   - name: "Home"
