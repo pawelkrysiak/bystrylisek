@@ -1,5 +1,5 @@
 ---
-title: "Pierwsza konsultacja psychologiczna rodzica w sprawie dziecka"
+title: "Pierwsza konsultacja psychologiczna dziecka"
 layout: service
 price: 130
 time: 50
