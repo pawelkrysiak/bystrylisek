@@ -1,7 +1,7 @@
 ---
 title: "Pierwsza konsultacja psychologiczna rodzica w sprawie dziecka ONLINE"
 layout: service
-price: 130
+price: 140
 time: 60
 role: "Oliwia Jankowska"
 ---
