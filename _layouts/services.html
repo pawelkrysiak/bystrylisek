@@ -18,7 +18,8 @@ bodyClass: page-services-list
   </div>
   {% endunless %}
   <div class="row">
-    {% for service in site.services %}
+    {% assign sorted_services = site.services | sort: "order" %}
+    {% for service in sorted_services %}
     {% if service.role == page.title or page.role == "all" %}
     <div class="col-12 col-md-8 mb-3">
       <div class="service service-summary">
