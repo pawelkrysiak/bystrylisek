@@ -8,14 +8,14 @@ weight: 2
 layout: services
 ---
 
-Absolwentka kierunku Psychologia, spec. Kliniczna na SWPS Uniwersytecie Humanistycznospołecznym we Wrocławiu oraz kierunku Edukacja wczesnoszkolna i przedszkolna na Instytucie Studiów Podyplomowych w Warszawie. Ponadto posiada certyfikat uprawniający do prowadzenia zajęć z zakresu Treningu Umiejętności Społecznych (TUS) oraz certyfikat uprawniający do prowadzenia zajęć Arteterapeutycznych z dziećmi i dorosłymi. Dysponuje także przygotowaniem pedagogicznym do pracy z dziećmi i młodzieżą oraz uprawnieniami opiekunki dziecięcej.
+Absolwentka kierunku Psychologia, spec. Kliniczna na SWPS Uniwersytecie Humanistycznospołecznym we Wrocławiu, kierunku Edukacja wczesnoszkolna i przedszkolna na Instytucie Studiów Podyplomowych w Warszawie, kierunku Psychologia Dziecka na SWPS Uniwersytecie Humanistycznospołecznym w Poznaniu oraz kursu akademickiego Psychologia twórczości czyli jak odkryć kreatywność w życiu codziennym i pracy? na SWPS Uniwersytecie Humanistycznospołecznym w Warszawie. Ponadto posiada certyfikat uprawniający do prowadzenia zajęć z zakresu Treningu Umiejętności Społecznych (TUS) oraz dysponuje przygotowaniem pedagogicznym do pracy z dziećmi i młodzieżą.
 
-Posiada doświadczenie terapeutyczne jako psycholog związane z diagnozowaniem oraz pracą indywidualną i grupową z dziećmi z autyzmem, Zespołem Aspergera, Zespołem Downa, mutyzmem wybiórczym, depresją dziecięca, zaburzeniami integracji sensorycznej, przejawiającymi zachowania agresywnie, nieradzącymi sobie ze swoimi emocjami oraz niepełnosprawnymi intelektualnie i ruchowo.
+Posiada doświadczenie terapeutyczne jako psycholog związane z pracą indywidualną i grupową z dziećmi z autyzmem, Zespołem Aspergera, Zespołem Downa, mutyzmem wybiórczym, depresją dziecięca, zaburzeniami integracji sensorycznej, przejawiającymi zachowania agresywnie, nieradzącymi sobie ze swoimi emocjami oraz niepełnosprawnymi intelektualnie i ruchowo.
 
-Swoje doświadczenie zawodowe w pracy zdobywała podczas pracy i praktyk zawodowych w formie indywidualnej opieki nad dziećmi, w żłobkach, przedszkolach, przedszkolu i szkole integracyjnej oraz podczas stażu w ośrodku MOPSu w pracy z seniorami.
+Swoje doświadczenie zawodowe w pracy zdobywała podczas pracy i praktyk zawodowych w formie indywidualnej opieki nad dziećmi, w żłobkach, przedszkolach i szkole integracyjnej.
 
-Stale pogłębia swój warsztat pracy z dziećmi i młodzieżą biorąc udział w licznych szkoleniach między innymi z logosensoryki, Wczesnego Wspomagania Rozwoju (WWR), rozwoju psychoruchowym dziecka w wieku przedszkolnym i szkolnym, pracy z emocjami, ruchem i przestrzenią oraz współpracy z rodzicami. Była uczestniczką wielu bloków zajęć związanych z tematyką zaburzeń ze spektrum autyzmu oraz zaburzeń odżywiania.
+Stale pogłębia swój warsztat pracy biorąc udział w licznych kursach i szkoleniach dotyczących rozwoju i potrzeb dziecka w wieku przedszkolnym i szkolnym oraz współpracy z rodzicami.
 
-Liczy się dla niej indywidualne podejście do każdego pacjenta i stworzenie „terapii szytej na miarę”. Podczas pracy z dziećmi oraz młodzieżą stara się łączyć różne style pracy, wykazywać się dużą otwartością i kreatywnością oraz dawać swobodną przestrzeń potrzebną do skutecznej pracy terapeutycznej.
+Liczy się dla niej indywidualne podejście do każdego pacjenta i stworzenie „terapii szytej na miarę”. Podczas swojej pracy stara się łączyć różne podejścia, wykazywać się dużą otwartością i kreatywnością tworząc swobodną przestrzeń potrzebną do skutecznej pracy terapeutycznej.
 
 Aktualnie pracuje także jako psycholog w szkole integracyjnej.
