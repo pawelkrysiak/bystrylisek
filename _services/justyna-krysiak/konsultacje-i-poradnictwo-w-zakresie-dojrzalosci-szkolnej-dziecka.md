@@ -1,7 +1,7 @@
 ---
 title: "Konsultacje i poradnictwo w zakresie dojrzałości szkolnej dziecka"
 layout: service
-price: 70
+price: 90
 time: 60
 role: "Justyna Krysiak"
 ---

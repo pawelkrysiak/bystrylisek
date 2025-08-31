@@ -1,7 +1,7 @@
 ---
 title: "Terapia ręki"
 layout: service
-price: 70
+price: 90
 time: 45
 role: "Justyna Krysiak"
 ---

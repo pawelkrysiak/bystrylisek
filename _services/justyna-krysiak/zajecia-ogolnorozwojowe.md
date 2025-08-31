@@ -1,7 +1,7 @@
 ---
 title: "Zajęcia ogólnorozwojowe"
 layout: service
-price: 90
+price: 110
 time: 60
 group: 5
 role: "Justyna Krysiak"

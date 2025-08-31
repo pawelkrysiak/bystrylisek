@@ -1,7 +1,7 @@
 ---
 title: "TUS dla dzieci od 9 do 12 roku życia"
 layout: service
-price: 85
+price: 120
 time: 60
 group: 5
 role: "Justyna Krysiak"

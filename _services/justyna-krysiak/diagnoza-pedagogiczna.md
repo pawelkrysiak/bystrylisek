@@ -1,7 +1,7 @@
 ---
 title: "Diagnoza pedagogiczna"
 layout: service
-price: 170
+price: 190
 time: 2 x 45
 role: "Justyna Krysiak"
 ---

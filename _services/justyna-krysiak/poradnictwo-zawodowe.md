@@ -1,7 +1,7 @@
 ---
 title: "Poradnictwo zawodowe"
 layout: service
-price: 80
+price: 100
 time: 60
 role: "Justyna Krysiak"
 ---

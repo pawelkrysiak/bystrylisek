@@ -1,7 +1,7 @@
 ---
 title: "Terapia dyskalkulii"
 layout: service
-price: 90
+price: 110
 time: 60
 role: "Justyna Krysiak"
 ---
