@@ -20,7 +20,7 @@ bodyClass: page-services-list
   <div class="row">
     {% assign sorted_services = site.services | sort: "order" %}
     {% for service in sorted_services %}
-    {% if service.role == page.title or page.role == "all" %}
+    {% if service.role == page.title or page.role == "all" and service.hide_on_all != true %}
     <div class="col-12 col-md-8 mb-3">
       <div class="service service-summary">
         <div class="service-content">
