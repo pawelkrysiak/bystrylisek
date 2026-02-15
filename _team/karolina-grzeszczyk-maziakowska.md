@@ -2,7 +2,6 @@
 title: "Karolina Grzeszczyk-Maziakowska"
 role: psycholog
 image: "images/team/karolina-grzeszczyk-maziakowska.jpg"
-mail: karolina.grzeszczyk-maziakowska@bystrylisek.pl
 phone: "512 845 992"
 weight: 4
 layout: services
